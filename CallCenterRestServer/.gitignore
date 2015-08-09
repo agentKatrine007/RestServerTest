@@ -1,3 +1,10 @@
+.DS_Store
+
+/build
+/dist
+/nbproject
+/setup
+
 *.class
 
 # Mobile Tools for Java (J2ME)
